@@ -16,14 +16,13 @@ My GitHub page is [Nasir-AsimSalmon](http://github.com/Nasir-AsimSalmon)
   table { 
     background-color: orange; 
     color: white; 
-
+  </style>
 <table>
 <tr>
 <th> Commands used </th>
 </tr>
 </table>
-</style>
-  }
+  
 
 ```c++
 1. ls
