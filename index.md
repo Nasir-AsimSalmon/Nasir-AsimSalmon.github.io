@@ -22,7 +22,7 @@ My GitHub page is [Nasir-AsimSalmon](http://github.com/Nasir-AsimSalmon)
 <th> Commands used </th>
 </tr>
 </table>
-</style
+</style>
   }
 
 ```c++
