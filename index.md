@@ -17,9 +17,7 @@ My GitHub page is [Nasir-AsimSalmon](http://github.com/Nasir-AsimSalmon)
 <tr>
 <th> Commands used </th>
 </tr>
-<tr>
-<td>
-<table/>
+</table>
 
 ```c++
 1. ls
