@@ -12,11 +12,7 @@ My GitHub page is [Nasir-AsimSalmon](http://github.com/Nasir-AsimSalmon)
 #### **Lab 1**  
 
 * Lab 1 was one of my favorite introductory labs for understanding the structure of C++. The lab provided me with foundational knowledge and hands-on experience in using C++, but introduced me to using basic commands for Linux, BASH Shell, and being able to explore and push code that I had produced into GitHub. What I love about this introductory Lab is that it allowed me to gain more knowledge regarding C++ by trying to print out “Hello World!”, but also allowed me to work together with someone in order to explore different pathways and understand the different layers that go into coding.
-<style>
-  table { 
-    background-color: orange; 
-    color: white; 
-  </style>
+* 
 <table>
 <tr>
 <th> Commands used </th>
